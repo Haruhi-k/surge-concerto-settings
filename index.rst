@@ -20,7 +20,7 @@
 .. toctree::
    :maxdepth: 2
 
-   ciel_nosurge/ciel_nosurge
+   ciel-nosurge/index
 
 公式サイト
 ------------------------------------------------
